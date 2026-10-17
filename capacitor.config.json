@@ -1,1 +1,6 @@
-
+{
+  "appId": "com.binjamiumlabs.circle",
+  "appName": "CIRCLE",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
